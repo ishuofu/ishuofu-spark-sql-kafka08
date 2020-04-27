@@ -1,0 +1,1 @@
+结合spark-sql-kafka,spark-streaming及maven shade插件，实现spark structured streaming对接kafka 0.8.2.1 
